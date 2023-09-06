@@ -14,7 +14,7 @@ AHF Manager is an Xposed module that allows you to hook into other Android apps 
 ## Installation
 1. Ensure that your device is rooted.
 2. Install the Xposed Framework on your device.
-3. Download the AHF Manager APK from the [Releases](https://github.com/Dev4Mod/AHF-Manager/releases) section.
+3. Download the AHF Manager APK from the [Releases](https://github.com/Dev4Mod/AHFManager/releases) section.
 4. Install the AHF Manager APK.
 5. Enable the AHF Manager module in the Xposed Installer app.
 6. Reboot your device.
@@ -30,7 +30,7 @@ AHF Manager is an Xposed module that allows you to hook into other Android apps 
 We welcome contributions from the community. If you'd like to contribute to the development of AHF Manager, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Support
-If you encounter any issues or have questions about AHF Manager, please [Visit Telegram](https://t.me/AFHManager).
+If you encounter any issues or have questions about AHF Manager, please [Visit Telegram](https://t.me/ahfmanager).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
